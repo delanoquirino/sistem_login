@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://poke-list-dequi.vercel.app/](https://sistem-login.vercel.app/)">
+  <a href="https://poke-list-dequi.vercel.app/](https://sistem-login.vercel.app/">
     click here to access the deploy
   </a>
 </p>
